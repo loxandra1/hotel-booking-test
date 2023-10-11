@@ -1,0 +1,10 @@
+{
+  "firstname": "FERHAT",
+  "lastname": "ALT3",
+  "totalprice": "1232",
+  "depositpaid": "true",
+  "bookingdates": {
+    "checkin": "2023-10-11",
+    "checkout": "2023-10-04"
+  }
+}
